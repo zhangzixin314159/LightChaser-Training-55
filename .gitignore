@@ -1,4 +1,0 @@
-# 忽略编译生成的exe
-*.exe
-# 忽略VSCode配置缓存
-.vscode/
